@@ -8,7 +8,7 @@ pass -> 9806818722
 
 Run below migrations and seeders
 
-rename .evv.example to .env .
+rename .env.example to .env .
 
 php artisan migrate
 
